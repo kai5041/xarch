@@ -1,2 +1,3 @@
-setb R0B0 16'5
-setw R0W0 16'FFFF
+print
+setb R0B0 16_5
+setw R4W1 16_FFFF
